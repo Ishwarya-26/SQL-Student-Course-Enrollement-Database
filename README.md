@@ -22,6 +22,7 @@ Records student enrollments with enrollment ID, student ID, course ID, enrollmen
 Users can manipulate data within the database, including updating student information, adding new courses, and managing enrollments.
 ### Stored Procedures:
 insert_student: A stored procedure to insert new student records into the database.
+
 enroll_student: A stored procedure to enroll students in courses by inserting enrollment records.
 ### View Creation:
 A view named students_course_details is created to display comprehensive details of students' course enrollments.
