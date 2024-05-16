@@ -1,7 +1,7 @@
 # Student Course Enrollment Database 
 
 ## Overview:
-The Student Course Enrollment Database is a  system designed to manage student information, course details, and enrollment records efficiently. This overview provides a detailed look at the database structure, data population, key functionalities, and usage of stored procedures.
+The Student Course Enrollment Database is a  system designed to manage student information, course details, and enrollment records efficiently. 
 
 ## Database Structure:
 
